@@ -7,12 +7,15 @@
 
   <p><strong>Ordered list</strong></p>
   <ol>
-    <li>List item</li>
-    <li>List item</li>
+    <li>First ordered list item</li>
+    <li>Second ordered list item</li>
   </ol>
 
+  <p><strong>Description list</strong></p>
   <dl>
-    <dt>Definition title</dt>
-      <dd>Definition Definition</dd>
+    <dt>Description title</dt>
+    <dd>Description definition</dd>
+    <dt>Another descrpition title</dt>
+    <dd>ANother description definition</dd>
   </dl>
 </div>
