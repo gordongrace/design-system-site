@@ -13,19 +13,20 @@ code:
 
       <div class="au-body">
         <ul>
-          <li>List item</li>
-          <li>List item</li>
+          <li>Unordered list item</li>
+          <li>Another unordered list item</li>
         </ul>
 
         <ol>
-          <li>List item</li>
-          <li>List item</li>
+          <li>First ordered list item</li>
+          <li>Second ordered list item</li>
         </ol>
 
         <dl>
           <dt>Definition title</dt>
-            <dd>Definition Definition</dd>
-            <dd>Definition Definition</dd>
+          <dd>Definition description</dd>
+          <dt>Another definition title</dt>
+          <dd>Another definition description</dd>
         </dl>
       </div>
 ---
